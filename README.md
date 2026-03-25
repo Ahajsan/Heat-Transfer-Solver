@@ -29,8 +29,8 @@ Rozwiązywane równanie:
 
 * przewodność cieplna:
 
-  * ( k(x) = 1 ) dla ( x \in [0,1] )
-  * ( k(x) = 2x ) dla ( x \in (1,2] )
+  * k(x) = 1  dla x [0,1] 
+  * k(x) = 2x dla x (1,2]
 * źródło:
 
   * ( f(x) = 100x )
